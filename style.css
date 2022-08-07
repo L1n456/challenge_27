@@ -65,6 +65,9 @@ body{
 }
 
 .grid-1{
+    background-image: url("images/bg-pattern-quotation.svg");
+    background-repeat: no-repeat;
+    background-position: 90% 0%;
     color: var(--White);
     grid-row: 1/2;
     grid-column: 1/3;
